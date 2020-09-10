@@ -1,6 +1,10 @@
 # yellow_notes_flutter
 
-A new Flutter project.
+> Notes App
+
+## Design
+
+[Notes App](https://www.uplabs.com/posts/mobile-notes-app-ui-design-template-a6fc218c-d639-4366-b77f-d8ae7aa1f124)
 
 ## Getting Started
 
